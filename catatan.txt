@@ -1,0 +1,8 @@
+1. Outlet1 = Dapur Khanza
+2. Outlet2 = Cia Young Tofu
+3. Outlet3 = Bebek Goreng Daeng
+4. Outlet4 = Kitchen Warman
+5. Outlet5 = Geprek A3
+6. Outlet6 = Sahabat Taichan
+7. Outlet7 = Dimsum PJS Batam
+8. Outlet8 =  
