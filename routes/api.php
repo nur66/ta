@@ -28,7 +28,8 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('/outlet/{id}', [TokoController::class, 'coba']);
 
+
 Route::post('/create_menu', [ApiController::class, 'apibuat']);
 Route::get('/lihat_menu', [ApiController::class, 'apimenu']);
 Route::post('/edit_menu', [ApiController::class, 'apiedit']);
-Route::delete('hapus_menu/{id}', [ApiController::class, 'apidelete']);
+Route::delete('/hapus_menu/{id}', [ApiController::class, 'apidelete']);
